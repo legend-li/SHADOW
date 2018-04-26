@@ -1,0 +1,39 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(242, 242, 242, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:323px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2160_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:301px;
+  height:171px;
+}
+#u2160 {
+  position:absolute;
+  left:23px;
+  top:20px;
+  width:300px;
+  height:170px;
+  font-family:'FZLTXHB--B51-0', 'Lantinghei TC Extralight', 'Lantinghei TC';
+  font-weight:200;
+  font-style:normal;
+}
+#u2161 {
+  position:absolute;
+  left:2px;
+  top:30px;
+  width:296px;
+  word-wrap:break-word;
+}
